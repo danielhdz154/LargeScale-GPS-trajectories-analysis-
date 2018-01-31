@@ -16,8 +16,10 @@ Required python scripts, packages and libraries:
 -  pandas
 -  numpy 
 -  sqlalchemy
+-  GDAL 
 -  fiona
 -  shapely
 -  networkx
+-  rtree
 -  matplotlib
 
