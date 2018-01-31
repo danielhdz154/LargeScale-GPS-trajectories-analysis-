@@ -4,11 +4,11 @@ This repository contains all the code used for processing large-scale GPS trajec
 
 The following notebooks demonstrate the workflow used for processing and evaluating the trajectory data for a study case in Melbourne, Australia using raw trajectory data from 2016: 
 
-> 001 - Reading and filtering large-scale GPS trajectory data
-> 002 - Map Matching Process
-> 003 - Join map matched data 
-> 004 - Determine traffic normal conditions for peak times 
-> 005 - Time series modelling - Detecting potential changes in road network
+> 001 - Read and filter GPS data.ipynb <br>
+> 002 - Map matching process.ipynb <br>
+> 003 - Join map matched data .ipynb <br>
+> 004 - Determine traffic normal conditions for peak times.ipynb <br> 
+> 005 - Time series modelling - Detecting potential changes in road network.ipynb <br>
 
 Required python scripts, packages and libraries:
 
